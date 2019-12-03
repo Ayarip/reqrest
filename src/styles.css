@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.cardtext{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.card-img-top{
+    width: 50%;
+    height: 30%;
+    position: relative;
+    left: 60px;
+}
+
+.form-group, 
+.card-title,
+.card-body{
+    text-align: center;
+}
